@@ -1,0 +1,14 @@
+C:\C\Monitoring\Monitoring\bin\Debug\Monitoring.exe.config
+C:\C\Monitoring\Monitoring\obj\Debug\Monitoring.csprojResolveAssemblyReference.cache
+C:\C\Monitoring\Monitoring\obj\Debug\App.g.cs
+C:\C\Monitoring\Monitoring\obj\Debug\Monitoring_MarkupCompile.cache
+C:\C\Monitoring\Monitoring\bin\Debug\Monitoring.exe
+C:\C\Monitoring\Monitoring\bin\Debug\Monitoring.pdb
+C:\C\Monitoring\Monitoring\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\C\Monitoring\Monitoring\obj\Debug\MainWindow.baml
+C:\C\Monitoring\Monitoring\obj\Debug\MainWindow.g.cs
+C:\C\Monitoring\Monitoring\obj\Debug\Monitoring.g.resources
+C:\C\Monitoring\Monitoring\obj\Debug\Monitoring.Properties.Resources.resources
+C:\C\Monitoring\Monitoring\obj\Debug\Monitoring.csproj.GenerateResource.Cache
+C:\C\Monitoring\Monitoring\obj\Debug\Monitoring.exe
+C:\C\Monitoring\Monitoring\obj\Debug\Monitoring.pdb

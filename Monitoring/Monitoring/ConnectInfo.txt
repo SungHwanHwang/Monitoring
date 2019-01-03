@@ -1,0 +1,3 @@
+DataSource=xe
+User Id=hr
+Password=0000
